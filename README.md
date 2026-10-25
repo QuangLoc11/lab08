@@ -1,10 +1,11 @@
-## THÔNG TIN BÀI THỰC HÀNH LAB 07
-- Họ tên Sinh viên: Trương Quang Lộc
-- MSSV: B2604655
-- Lớp: 2696A1
+# BÀI THỰC HÀNH LAB 08 - GIAO TIẾP TRỰC TUYẾN CƠ BẢN
 
-### DANH SÁCH ĐƯỜNG LINK SẢN PHẨM LAB 07
-1. Google Form 1 (Nhập thông tin SV K52): https://forms.gle/59KMidXhA4y1GMRs6
-2. Google Form 2 (Đăng ký tham quan TMA): https://forms.gle/AWQHgz5hE3NmkvC98
-3. Website Giới thiệu bản thân (Google Sites/GitHub Pages): https://sites.google.com/student.ctu.edu.vn/hosocanhan-truongquangloc
-4. Bảng Quản lý Dự án Trello: https://trello.com/b/DSYk37FN/phan-tich-so-sanh-cac-cong-c%E1%BB%A5-cntt
+---
+
+## NHIỆM VỤ 5.2: MẠNG XÃ HỘI VÀ TIN NHẮN (FACEBOOK & ZALO)
+* **Đường link Fanpage Facebook:** https://www.facebook.com/profile.php?id=61595720857873
+* **Đường link tham gia nhóm Zalo:** https://zalo.me/g/3tsgbiij9zxkarkz8tqv
+---
+
+## NHIỆM VỤ 5.3: HỘI NGHỊ TRỰC TUYẾN VÀ ĐĂNG TẢI VIDEO YOUTUBE
+* **Đường link Video YouTube cuộc họp:** https://youtu.be/uUQRwyGdAac
